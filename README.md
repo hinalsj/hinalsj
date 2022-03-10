@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hinal
 - 👀 I’m studying Applied Math at UCLA
-- 💞️ I’m looking for opportunities in anything data related!
 - 📫 Reach me at jajalhinal@gmail.com
 
 <!---
